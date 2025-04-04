@@ -43,6 +43,9 @@ Generative AI | Computer Vision | NLP | STT & TTS | Text-to-Image | LLMs | Promp
   Integrated **STT**, **TTS**, and **text-to-image generation** along with **Gemini API**.  
   Focused on multi-modal interaction and response generation.
 
+- 📊 [**RAG & LLM App**](https://github.com/darkhiem/RAG-LLM-using-AI-Pipeline-with-streamlit-interface)<br>
+  Working to processes financial reports/tables using a **custom-trained LLM & RAG pipeline** 
+
 - 📚 [**Library Management System**](https://github.com/darkhiem/Library-Management-System)
   Web app built with PHP, MySQL, session-based auth & CRUD operations. *(Just enough full-stack to get the job done 😄)*
 
