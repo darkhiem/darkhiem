@@ -39,11 +39,11 @@ Generative AI | Computer Vision | NLP | STT & TTS | Text-to-Image | LLMs | Promp
 - 🚦 **AI-Based Traffic Management System**  
   Adaptive traffic signals using **CV**, **RL**, and **RNNs**. Built during SIH 2024.
 
-- 🤖 **AI-Powered Chatbot**  
+- 🤖 (**AI-Powered Chatbot**)(https://github.com/darkhiem/Gen-AI-Chatbot)  
   Integrated **STT**, **TTS**, and **text-to-image generation** along with **Gemini API**.  
   Focused on multi-modal interaction and response generation.
 
-- 📚 **Library Management System**  
+- 📚 (**Library Management System**)(https://github.com/darkhiem/Library-Management-System)
   Web app built with PHP, MySQL, session-based auth & CRUD operations. *(Just enough full-stack to get the job done 😄)*
 
 ---
